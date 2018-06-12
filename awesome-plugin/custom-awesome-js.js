@@ -2,7 +2,7 @@
 	'use strict';
 
 	$(document).ready(function() {
-        /*	Nothing Yet */
+        /*	No changes yet */
 	});
 
 	$(window).load(function () {
