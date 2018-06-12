@@ -2,7 +2,7 @@
 	'use strict';
 
 	$(document).ready(function() {
-		alert('Test');
+        /*	Nothing Yet */
 	});
 
 	$(window).load(function () {
